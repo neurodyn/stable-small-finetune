@@ -1,5 +1,16 @@
 # Fine-tuning Stable Audio Open Small
 
+```
+(stable-audio) root@computer:/path/to/stable-small-finetune# python
+Python 3.10.16 (main, Dec 11 2024, 16:24:50) [GCC 11.2.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+```
+
+Let's install stable audio tools. Inside `/stable-audio-tools/'
+```
+pip install .
+```
+
 # Previous notes:
 
 # Fine-tuning Stable Audio Open Small

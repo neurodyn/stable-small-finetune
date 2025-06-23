@@ -1,0 +1,11 @@
+{
+    "dataset_type": "audio_dir",
+    "datasets": [
+        {
+            "id": "glitchcool1",
+            "path": "../dataset/Glitch With Friends- Samples Vol. 2",
+            "custom_metadata_module": "../custom_metadata/custom_md_example.py"
+        }
+    ],
+    "random_crop": false
+}

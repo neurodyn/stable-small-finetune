@@ -1,4 +1,5 @@
 dataset/
 models/
 !models/stable-audio-open-small-base/ckpt/base_model_config.json
+!stable-audio-tools/run.sh
 checkpoint/
