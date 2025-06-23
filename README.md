@@ -21,8 +21,10 @@ pip install .
 .
 ├── stable-audio-tools/ # Cloned repository from Stability AI
 ├── dataset/            # Your audio files and metadata
-├── configs/            # Model and dataset configuration files
+├── config/            # Model and dataset configuration files
+├── custom_metadata/    # Custom method for generating prompts for training
 ├── models/             # Saved model checkpoints
+├── checkpoints/        # Model fine-tuning checkpoints
 ├── README.md           # This file
 └── (your Conda environment)
 ```
