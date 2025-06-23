@@ -1,0 +1,1 @@
+python train.py --dataset-config ../dataset.json --model-config ../models/stable-audio-open-small-base/ckpt/base_model_config.json --save-dir ../checkpoints --name stable_audio_open_finetune --checkpoint-every 1000 --batch-size 8 --precision 16-mixed --seed 128 --pretrained-ckpt-path ../models/stable-audio-open-small-base/ckpt/base_model.ckpt
